@@ -4,3 +4,39 @@ custom branch
 local , remote 
 
  work Directory -> git add (staging Area) -> git commit (local Repository) ->git push (Remot Repository) 
+
+git init
+
+configaration (global)
+git config --global user.name "name"
+git config --global user.email "email.com"
+
+single configaration
+git config user.name "name"
+git config user.email "@email.com"
+
+check configration
+git config --list
+
+check status
+git status 
+
+local D. to stage 
+git add filename ( git add demo.txt , git add "demo text.txt")
+git add --all , git add . //all file
+
+
+commit
+git commit -m "add some text"
+
+-----
+git log 
+git log --oneline
+
+
+
+
+ 
+
+
+ 
