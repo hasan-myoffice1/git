@@ -44,6 +44,9 @@ git show ea14a95
 
 git rm filename //remove
 
+git fatch and git pull
+
+
 
 
 
