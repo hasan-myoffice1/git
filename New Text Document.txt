@@ -33,6 +33,19 @@ git commit -m "add some text"
 git log 
 git log --oneline
 
+back to previus commit
+git checkout number (git chackout 57e1559)
+
+back git checkout master
+
+how many change in last commit to present
+git diff
+git show ea14a95 
+
+git rm filename //remove
+
+
+
 
 
 
