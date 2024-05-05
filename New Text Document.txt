@@ -1,0 +1,6 @@
+Git
+Master branch
+custom branch
+local , remote 
+
+ work Directory -> git add (staging Area) -> git commit (local Repository) ->git push (Remot Repository) 
