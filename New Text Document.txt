@@ -44,6 +44,9 @@ git show ea14a95
 
 git rm filename //remove
 
+git fatch and git pull
+
+
 
 git clone link name
 git clone https://github.com/hasan-myoffice1/git.git gitFile
