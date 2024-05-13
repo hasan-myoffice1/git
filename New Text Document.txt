@@ -64,8 +64,9 @@ git checkout -b home-brach
  git stash and clean 
 
  .gitignore 
+    *.
 
- fork in github  
+ fork in github  (copy project github to github)
  create pull request 
 
 
